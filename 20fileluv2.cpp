@@ -1,7 +1,9 @@
+// Let's start
+
 /*
 Q.1. Given 2d array a of N*N integers. Given Q queries
 and in each query given a,b,c and d print sum of square represented 
-by (a,b) as top left point and (c,d) as top bottom right point.
+by (a,b) as top left point and (c,d) as bottom right point.
 Constraints:-
 1 <= N <= 10^3
 1 <= a[i][j] <= 10^9

@@ -1,3 +1,5 @@
+// Let's start
+
 // hashing
 /*
 Q.1. Given T Test cases and in each test case a number N.

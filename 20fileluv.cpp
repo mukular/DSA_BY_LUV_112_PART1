@@ -1,3 +1,5 @@
+// Let's start
+
 /*
 Q.1. Given array a of N integers. Given Q queries and in 
 each query given L and R print sum of array elements from
